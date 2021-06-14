@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SportApp</string>
+    <string name="pushUps">Push Ups</string>
+    <string name="squats">Squats</string>
+    <string name="sitUps">Sit Ups</string>
+    <string name="stats">Stats</string>
+    <string name="series">Series</string>
+    <string name="back">Back</string>
+    <string name="timer">Timer</string>
+    <string name="startStop">Start</string>
+</resources>
